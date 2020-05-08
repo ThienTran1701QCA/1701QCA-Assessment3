@@ -66,6 +66,7 @@ I switched my original idea to contribute efforts in potentially encourage peopl
 ## Process documentation ##
 After my assessment 2 submission, I've received a lot of feedbacks that are extremely useful to develop my prototype into a final piece. A large portion of the feedbacks focus on the aesthetic side of my project, while others are on the technical side.
 The feedbacks all started with the conceptual prototype forum that I started on L@G, my groupmate was very helpful in suggesting setting a difficulty level for my project. During this stage, I did not think about how my project could benefit from setting different challenges, and what will my users benefit from the game. However, this was quickly all changed when I realised that I could create obstacles using the same material as my project's base, in which the following image will animate this change.
+
 ![Image](missingimage.png)
 
 Following my change, I've constructed two lists for Week 10 and 11 of the course, during which I've completed the tasks and goals within the two weeks. The following lists detail all tasks that was set for Week 10 and 11:
@@ -95,8 +96,14 @@ During week 10, I received a feedback from my tutor, suggesting that I could int
 
 
 ## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
+I am going to utilise the Double Diamond design methodology, as they perfectly capture the design process that I went through during this assessment. I wanted to create a project that can either contribute to the local community by maximsing public spaces or to devote my efforts into the Covid-19 pandemic. These two directions helped me to begin with the discover and define stages, where I discovered the topics that I am interested in and defined the different projects that I could explore.
+
+After creating a prototype for a rendition of my second design concept, I realised that I want to contribute some efforts to alleviate the situation of the padenmic and create a game that will keep the same concept as my second design concept. Arguably, my third concept came from the developmental phase of the Double Diamond methodolgy, where I creatively design a project based off the hand-eye coordination focal concept. I realised that my second concept design can easily be replicated and has been achieved by numerous Mirco:bit projects, and in order to deliver a successful outcome for this assessment, I would have to design an interesting design that shows an in-depth level of technical development and physical fabrication.
+
+Revolving around the task's underlying requirements and my own criteria, I created a prototype for my final concept, using the same materials and knowledge as my second design concept. The developments of the prototype can also be reflected in relations to the conducted research on non-related and related materials/projects, where I was laregly inspired by the works of those who are contributing efforts in combating against the global crisis, in which it motivated me to create a game that allows a player to improve the important hand-eye coordination lifeskill whilst encouraging them to stay indoors to prevent the pandemic from spreading.
+
+After receving feedbacks and having discussions from my teammate and tutors, I've successfully transitioned my prototype to my final piece. During the transition, I've focused largely on the rules, the difficulty, and the aesthetic of the game. In my opionion, the transitioning belong to the final stages in the Double Diamond design methodology, where I've finished developing my idea, delivered my game, and is prepring for a potential evolving my prduct. 
 
 ## Reflection ##
 
