@@ -127,6 +127,9 @@ In addition to the Email, I was challenged to increase the difficulty of the gam
 To justify as to why the timing doesn't add up in the code, I've accounted for the duration of certain elements that happens before the timing begins or continues. For example, the duration of show string "10 SECS" lasts for exactly 5 seconds, in which it will laregly influence the overall countdown. 
 
 ## Design process discussion ##
+
+![Image](bb19c2522081dad7f682c10d99a07903.jpg)
+
 I am going to utilise the Double Diamond design methodology, as they perfectly capture the design process that I went through during this assessment. I wanted to create a project that can either contribute to the local community by maximsing public spaces or to devote my efforts into the Covid-19 pandemic. These two directions helped me to begin with the discover and define stages, where I discovered the topics that I am interested in and defined the different projects that I could explore.
 
 After creating a prototype for a rendition of my second design concept, I realised that I want to contribute some efforts to alleviate the situation of the padenmic and create a game that will keep the same concept as my second design concept. Arguably, my third concept came from the developmental phase of the Double Diamond methodolgy, where I creatively design a project based off the hand-eye coordination focal concept. I realised that my second concept design can easily be replicated and has been achieved by numerous Mirco:bit projects, and in order to deliver a successful outcome for this assessment, I would have to design an interesting design that shows an in-depth level of technical development and physical fabrication.
