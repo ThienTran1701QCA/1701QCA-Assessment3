@@ -59,22 +59,37 @@ In terms of the overall project, I was inspired by the disastrous impacts of the
 ## Conceptual development ##
 
 ### Design intent ###
-I switched my original idea to contribute efforts in potentially encourage people to stay indoors. Not only this, people attention span will be able to increase and their determination will too as they'll be determined to beat their personal bests. The project will be call Hunters
+To contribute efforts in potentially encourage people to stay indoors. Not only this, people attention span will be able to increase and their determination will too as they'll be determined to beat their personal bests. The project will be call Hunters
 
 ### Design ideation ###
-<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+Originally I wanted to develop a sport field/facility that will allow different types of sports to be played within a confined space. The field can be made by a shoebox or an object with similar dimensions.
+
+The first idea was to have a sport field that can hold 2 sports: international football and basketball, but they can't be played concurrently - as only one net at one end to score. The second idea was to have the same 2 sports but with a divider net/wall in between, have multiple Micro:bit to keep score, and can play concurrently.
+
+![Image](missingimage.png)
+
+The third idea was to have more than 2 sports, but on a bigger scale, similar to the size of a coffee table or something to the extent.
+
+![Image](missingimage.png)
+
+I switched my original idea to contribute efforts in the current Covid-19 Pandemic, by potentially encouraging people to stay indoors. This will be done through increasing people's attention span and determination, as people will attempt to not touch aluminum coil whilst crossing it throughout different levels and challenges. The project will be call Don't Touch The Wire.
+
+![Image](missingimage.png)
+
+The second design concept gave me the overall concept for my project: hand-eye coordination. Using the materials and concept from my second concept, I am able to create a family-friendly game where people will try to grab a prize without touching the surrounding to avoid loosing and triggering the alarm on.
+
+![Image](missingimage.png)
 
 ### Final design concept ###
 The second design concept gave me the overall concept for my project: hand-eye coordination. Using the materials and concept from my second concept, I am able to create a family-friendly game where people will try to grab a prize without touching the surrounding to avoid loosing and triggering the alarm on.
 
 ### Interaction flowchart ###
-<!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
 ![Image](missingimage.png)
 
 ## Process documentation ##
 After my assessment 2 submission, I've received a lot of feedbacks that are extremely useful to develop my prototype into a final piece. A large portion of the feedbacks focus on the aesthetic side of my project, while others are on the technical side.
-The feedbacks all started with the conceptual prototype forum that I started on L@G, my groupmate was very helpful in suggesting setting a difficulty level for my project. During this stage, I did not think about how my project could benefit from setting different challenges, and what will my users benefit from the game. However, this was quickly all changed when I realised that I could create obstacles using the same material as my project's base, in which the following image will animate this change.
+The feedbacks all started with the conceptual prototype forum that I started on L@G, my groupmate was very helpful in suggesting setting a difficulty level for my project. During this stage, I did not think about how my project could benefit from setting different challenges, and what will my users benefit from the game. However, this was quickly all changed when I realised that I could create obstacles using the same material as my project's base, in which the following image will demonstrate this change.
 
 ![Image](missingimage.png)
 
@@ -96,8 +111,12 @@ Week 11:
 - Make obstacles stronger/harder for the player to get the prizes. 
 
 During week 10, I received a feedback from my tutor, suggesting that I could integrate the timer into the Microbit instead of needing to use a phone. Which allows the game to be a standalone experience instead of requiring an external device. This suggestion influenced greatly to my final code for the project, and it was the feedback that allowed the simultaneous timers - where if a player hits the obstacle, a 40 seconds timer will be initiated.
+After my tutor's suggestion, I decided that I wanted to obtain more constructive feedbacks in order to benefit my project. I started off-school discussions with my tutor via Email, where the Emails focuses largely on the written component of the game's rules. In other words, I was advised to physically write the instructions that will make sure the game's player to understand the game in a simplified method. Since then, I've made an instruction manual for the player, detailing how to start the game, a limit on one player at a time, what is being displayed on the screen, how to reset the game, how to change the game's difficulty, and what each tone represents, in which the following image demonstrates the instruction manual.
 
-(Talk about the email too, how the email helped to finalise the project).
+![Image](missingimage.png)
+
+
+It looks quite easy to take the candies out...are you planning to make this much more challenging with the new design?
 
 ## Final code ##
 
