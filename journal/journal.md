@@ -115,16 +115,16 @@ After my tutor's suggestion, I decided that I wanted to obtain more constructive
 
 ![Image](missingimage.png)
 
+In addition to the Email, I was challenged to increase the difficulty of the game's obstacles. I achieved this challenge with the addition of the cylindrical tube attached in the middle of the game, where it will make the maneuvering of the clippers more difficult, thereby making it harder for the game's player to get the candies.
 
-It looks quite easy to take the candies out...are you planning to make this much more challenging with the new design?
+![Image](missingimage.png)
+
 
 ## Final code ##
 
-<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
-
+![Image](missingimage.png)
 
 ## Design process discussion ##
-
 I am going to utilise the Double Diamond design methodology, as they perfectly capture the design process that I went through during this assessment. I wanted to create a project that can either contribute to the local community by maximsing public spaces or to devote my efforts into the Covid-19 pandemic. These two directions helped me to begin with the discover and define stages, where I discovered the topics that I am interested in and defined the different projects that I could explore.
 
 After creating a prototype for a rendition of my second design concept, I realised that I want to contribute some efforts to alleviate the situation of the padenmic and create a game that will keep the same concept as my second design concept. Arguably, my third concept came from the developmental phase of the Double Diamond methodolgy, where I creatively design a project based off the hand-eye coordination focal concept. I realised that my second concept design can easily be replicated and has been achieved by numerous Mirco:bit projects, and in order to deliver a successful outcome for this assessment, I would have to design an interesting design that shows an in-depth level of technical development and physical fabrication.
@@ -134,10 +134,7 @@ Revolving around the task's underlying requirements and my own criteria, I creat
 After receving feedbacks and having discussions from my teammate and tutors, I've successfully transitioned my prototype to my final piece. During the transition, I've focused largely on the rules, the difficulty, and the aesthetic of the game. In my opionion, the transitioning belong to the final stages in the Double Diamond design methodology, where I've finished developing my idea, delivered my game, and is prepring for a potential evolving my prduct. 
 
 ## Reflection ##
-
-<!--- Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.
-
-What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+<--- What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
 What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
 
