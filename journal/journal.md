@@ -134,8 +134,9 @@ Revolving around the task's underlying requirements and my own criteria, I creat
 After receving feedbacks and having discussions from my teammate and tutors, I've successfully transitioned my prototype to my final piece. During the transition, I've focused largely on the rules, the difficulty, and the aesthetic of the game. In my opionion, the transitioning belong to the final stages in the Double Diamond design methodology, where I've finished developing my idea, delivered my game, and is prepring for a potential evolving my prduct. 
 
 ## Reflection ##
-<--- What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
+With regards to the identified sources, the project have been vastly benefited. From how the materials interact with one another, to setting game's objectives and different challenging levels, and to the circuitry and technical components of the game, the technical aspects and overall "feel and look" of the game was able to develop and made. 
 
-What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
+In terms of novelty, the game focuses on two inspirations from life, the concept of hand-eye coordination and the negative impacts of Covid-19. 
+The hand-eye coordination concept is an important life skills that most people must have in great amount. Without the life skill, simple tasks can be seen as impossible due without/with low hand-eye coordination.
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
