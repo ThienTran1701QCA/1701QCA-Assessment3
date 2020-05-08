@@ -66,7 +66,7 @@ Originally I wanted to develop a sport field/facility that will allow different 
 
 The first idea was to have a sport field that can hold 2 sports: international football and basketball, but they can't be played concurrently - as only one net at one end to score. The second idea was to have the same 2 sports but with a divider net/wall in between, have multiple Micro:bit to keep score, and can play concurrently.
 
-![Image](missingimage.png)
+![Image](Concepts12-1.jpg)
 
 The third idea was to have more than 2 sports, but on a bigger scale, similar to the size of a coffee table or something to the extent.
 
