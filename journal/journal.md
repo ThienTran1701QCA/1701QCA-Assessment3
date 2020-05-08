@@ -124,6 +124,8 @@ In addition to the Email, I was challenged to increase the difficulty of the gam
 
 ![Image](missingimage.png)
 
+To justify as to why the timing doesn't add up in the code, I've accounted for the duration of certain elements that happens before the timing begins or continues. For example, the duration of show string "10 SECS" lasts for exactly 5 seconds, in which it will laregly influence the overall countdown. 
+
 ## Design process discussion ##
 I am going to utilise the Double Diamond design methodology, as they perfectly capture the design process that I went through during this assessment. I wanted to create a project that can either contribute to the local community by maximsing public spaces or to devote my efforts into the Covid-19 pandemic. These two directions helped me to begin with the discover and define stages, where I discovered the topics that I am interested in and defined the different projects that I could explore.
 
