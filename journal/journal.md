@@ -122,7 +122,7 @@ In addition to the Email, I was challenged to increase the difficulty of the gam
 
 ## Final code ##
 
-![Image](missingimage.png)
+![Image](code.png)
 
 To justify as to why the timing doesn't add up in the code, I've accounted for the duration of certain elements that happens before the timing begins or continues. For example, the duration of show string "10 SECS" lasts for exactly 5 seconds, in which it will laregly influence the overall countdown. 
 
