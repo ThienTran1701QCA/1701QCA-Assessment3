@@ -45,7 +45,16 @@ Same concept but different method and rules as my third design concept. The conc
 
 
 ## Other research ##
-<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
+https://study.com/academy/lesson/what-is-hand-eye-coordination-definition-skills-development.html 
+The chosen project focuses largely on the concept of hand-eye coordination. Hand-eye coordiation is vastly important in daily life, where simple tasks can be seen as impossible without/with low hand-eye coordination. The coordiation, therefore, can be defined as "the use of eyes to direct muscles towards a task", where it can be used to control small and large movements (study.com).
+
+https://ilslearningcorner.com/2016-02-hand-eye-coordination-how-hand-eye-coordination-helps-early-readers/ 
+To help me to understand why hand-eye coordination is important, Integrated Learning Strategies simply views the concept as important elements in a person's "proprioception, vestibular, visual processing and sensory-motor. If the person struggles with hand-eye coordination, you may find they have a hard time with balance and coordination, focusing their eyes on their hand movements, poor handwriting, playing sports, and trouble griping their pencil." This means that hand-eye coordination is a life skills that most people must have in great amount, however, one should be entitled to improve on the important life skils while living in the quick paced lifestyle in today's world.
+
+https://make.techwillsaveus.com/microbit/activities/electro-fingers 
+The following project provided an insight of how I envisioned my third design concept. The methods and concept are similar, in which I can turn my third concept into reality by understanding the operations and order in this project. In addition, this project is a prime example of a Micro:bit project in action with relations to the hand-eye coordination concept.
+
+In terms of the overall project, I was inspired by the disastrous impacts of the Covid-19 Pandemic and the heroic individuals that are working effortlessly everyday to stop the pandemic. One project that comes to mind is the Australian Government's Coronavirus Australia mobile phone app. The app encourages Australians to stay positive and healthy admist the pandemic through different ways: providing health advice, get instant access to the current situation in Australia, check symptoms, find relevant infromation, and etc. The app is available on both the App Store and the Google Play Store, and is suitable for IOS and Android. The app is unrelated to my project, but it made me to realise that I can create a simple game that encourages people to stay indoors, to collectively challenge and play the game with people in their household, and to potentially have something to keep their mind busy through improving their hand-eye coordination.
 
 ## Conceptual development ##
 
@@ -56,7 +65,7 @@ I switched my original idea to contribute efforts in potentially encourage peopl
 <!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+The second design concept gave me the overall concept for my project: hand-eye coordination. Using the materials and concept from my second concept, I am able to create a family-friendly game where people will try to grab a prize without touching the surrounding to avoid loosing and triggering the alarm on.
 
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
