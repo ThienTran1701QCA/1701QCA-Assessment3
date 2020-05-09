@@ -119,6 +119,7 @@ In addition to the Email, I was challenged to increase the difficulty of the gam
 
 ![Image](missingimage.png)
 
+As for the design aesthetics of the game, since I'm dedicating a large portion of the game on encouraging people to stay at home during Covid-19, I've written meaningful and hopeful sentences to allow game's players to look forward for better days. Sentences such as: "You can do it!", "Not too long now, Covid-19 will go away!", or "Keep calm, cool, and collective!" are all short sentences that all bring an uplifting mood to the game during the pandemic. All sentences are all strategically placed, to prevent any distractions during the gameplay, but are still visible enough to deliver their intented purposes. 
 
 ## Final code ##
 
