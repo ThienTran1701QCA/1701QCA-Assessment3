@@ -88,6 +88,13 @@ The second design concept gave me the overall concept for my project: hand-eye c
 ![Image](A9729C73-FFFD-4D12-AFAA-C28A1C5341C3_1_105_c.jpeg)
 
 ## Process documentation ##
+Regarding my initial concepts and ideation, I created the second design concept to allow an in-depth understand of how certain materials intearct with each other, and more importantly how I can utilise the materials to my advantage. For example, I can use the same aluminum material to design different challenges throughout the game.
+The following image relates to how the second design concept systematically run via coding and its visual appearance.
+
+![Image]()
+
+![Image()
+
 After my prototype submission, I've received a lot of feedbacks that are extremely useful to develop my prototype into a final piece. A large portion of the feedbacks focus on the aesthetic side of my project, while others are on the technical side.
 The feedbacks all started with the conceptual prototype forum that I started on L@G, my groupmate was very helpful in suggesting setting a difficulty level for my project. During this stage, I did not think about how my project could benefit from setting different challenges, and what will my users benefit from the game. However, this was quickly all changed when I realised that I could create obstacles using the same material as my project's base, in which the following image will demonstrate this change.
 
