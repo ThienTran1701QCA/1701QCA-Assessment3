@@ -125,7 +125,7 @@ Week 11:
 During week 10, I received a feedback from my tutor, suggesting that I could integrate the timer into the Microbit instead of needing to use a phone. Which allows the game to be a standalone experience instead of requiring an external device. This suggestion influenced greatly to my final code for the project, and it was the feedback that allowed the simultaneous timers - where if a player hits the obstacle, a 40 seconds timer will be initiated.
 After my tutor's suggestion, I decided that I wanted to obtain more constructive feedbacks in order to benefit my project. I started off-school discussions with my tutor via Email, where the Emails focuses largely on the written component of the game's rules. In other words, I was advised to physically write the instructions that will make sure the game's player to understand the game in a simplified method. Since then, I've made an instruction manual for the player, detailing how to start the game, a limit on one player at a time, what is being displayed on the screen, how to reset the game, how to change the game's difficulty, and what each tone represents, in which the following image demonstrates the instruction manual.
 
-![Image](E5C02623-90DB-4A35-BD34-BAE7BB2F6B17_1_105_c.jpeg)
+![Image](asfasldkfjls;dfjsdl;kfjdls;kfjals;dfjals;dfjkas;d.png)
 
 In addition to the Email, I was challenged to increase the difficulty of the game's obstacles. I achieved this challenge with the addition of the cylindrical tube attached in the middle of the game, where it will make the maneuvering of the clippers more difficult, thereby making it harder for the game's player to get the candies.
 
