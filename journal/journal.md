@@ -101,7 +101,7 @@ The prototype's obstacles close up view:
 
 ![Image](IMG_0404.jpg)
 
-The prototype's side view (during point of submission:
+The prototype's side view (during point of submission):
 
 ![Image](IMG_0406.jpg)
 
@@ -115,17 +115,16 @@ Week 10:
 - Set 1:30 seconds for each prize pocket via phone timer.
 - If player touch obstacle or foil, they will only have 40 seconds per pocket left. 
 - Change from wire jumper that connects to the tin foil base to a crocodile clip to detect the foil better. 
-- Add cardboard as base for stronger game. 
+- Add hard styrofoam as base for stronger game. 
 - If player touch obstacle, a warning alert will sound, and Micro:bit will start the 40 seconds timer. 
 - If player fails to pick up all prizes in 1:30 seconds, put all prizes back in the playing pocket, and restart the game. 
 - If player picked all prizes in a pocket in 1:30 seconds, player gets to keep all the prizes.
 
 Week 11:
 - Put another A4 piece over the current and design it.
-- Conceal most wires using black electricity-grade tape. 
-- Design all 4 support pillars.
-- Design the outer layer of the pizza box.
-- Make obstacles stronger/harder for the player to get the prizes. 
+- Conceal most wires using black electricity-grade tape.
+- Make obstacles stronger/harder for the player to get the prizes.
+- Decorate the base and the overall "feel" of the game.
 
 During week 10, I received a feedback from my tutor, suggesting that I could integrate the timer into the Microbit instead of needing to use a phone. Which allows the game to be a standalone experience instead of requiring an external device. This suggestion influenced greatly to my final code for the project, and it was the feedback that allowed the simultaneous timers - where if a player hits the obstacle, a 40 seconds timer will be initiated.
 After my tutor's suggestion, I decided that I wanted to obtain more constructive feedbacks in order to benefit my project. I started off-school discussions with my tutor via Email, where the Emails focuses largely on the written component of the game's rules. In other words, I was advised to physically write the instructions that will make sure the game's player to understand the game in a simplified method. Since then, I've made an instruction manual for the player, detailing how to start the game, a limit on one player at a time, what is being displayed on the screen, how to reset the game, how to change the game's difficulty, and what each tone represents, in which the following image demonstrates the instruction manual.
@@ -139,6 +138,8 @@ In addition to the Email, I was challenged to increase the difficulty of the gam
 As for the design aesthetics of the game, since I'm dedicating a large portion of the game on encouraging people to stay at home during Covid-19, I've written meaningful and hopeful sentences to allow game's players to look forward for better days. Sentences such as: "You can do it!", "Not too long now, Covid-19 will go away!", or "Keep calm, cool, and collective!" are all short sentences that all bring an uplifting mood to the game during the pandemic. All sentences are all strategically placed, to prevent any distractions during the gameplay, but are still visible enough to deliver their intented purposes. 
 
 ![Image](missingimage.png)
+
+In terms of the newly made game's base, I completely replaced the pizza box to a nicely decorated hard styrofoam 
 
 ## Final code ##
 
