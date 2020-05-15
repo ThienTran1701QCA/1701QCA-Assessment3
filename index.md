@@ -11,7 +11,7 @@ This project is to encourage people to stay at home by allowing them to improve 
 ![Image](missingimage.png)
 
 
-[![Image](fasfsadfsadfasdf.png]
+![Image](fasfsadfsadfasdf.png)
 
 Video Address: https://www.youtube.com/watch?v=ELKO_9O4gGY
 
