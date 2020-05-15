@@ -95,13 +95,13 @@ The following image relates to how the second design concept systematically run 
 
 ![Image](IMG_0389.jpg)
 
-After experimenting with the second design concept, I created my third concept using the knowledge I gained and the avaialble materials that I have at my disposal. However, I felt like I needed to do further experiment with certain materials from my third design concept, in order to finalise my chosen design for the second assessment. During the experiment, I realised that certain materials will give me a better advantage than other materials, i.e.: a cardbox might provide a stable platform for my project but it wouldn't give me the flexibility I needed, in which I switched to a styrofoam material as my project's platform. The following two images represent a close up of the prototype's obstacles and its overview:
+After experimenting with the second design concept, I created my third concept using the knowledge I gained and the avaialble materials that I have at my disposal. However, I felt like I needed to do further experiment with certain materials from my third design concept, in order to finalise my chosen design for the second assessment. During the experiment, I realised that certain materials will give me a better advantage than other materials, i.e.: a cardbox might provide a stable platform for my project but it wouldn't give me the flexibility I needed, in which I switched to a styrofoam material as my project's platform. The following two images represent a close up of the improved prototype's obstacles and its overview:
 
-The prototype's obstacles close up view:
+The improved prototype's obstacles close up view:
 
 ![Image](IMG_0404.jpg)
 
-The prototype's side view (during point of submission):
+The improved prototype's side view (during point of submission):
 
 ![Image](IMG_0406.jpg)
 
@@ -133,13 +133,32 @@ After my tutor's suggestion, I decided that I wanted to obtain more constructive
 
 In addition to the Email, I was challenged to increase the difficulty of the game's obstacles. I achieved this challenge with the addition of the cylindrical tube attached in the middle of the game, where it will make the maneuvering of the clippers more difficult, thereby making it harder for the game's player to get the candies.
 
-![Image](missingimage.png)
+![Image](IMG_0441.jpeg)
 
 As for the design aesthetics of the game, since I'm dedicating a large portion of the game on encouraging people to stay at home during Covid-19, I've written meaningful and hopeful sentences to allow game's players to look forward for better days. Sentences such as: "You can do it!", "Not too long now, Covid-19 will go away!", or "Keep calm, cool, and collective!" are all short sentences that all bring an uplifting mood to the game during the pandemic. All sentences are all strategically placed, to prevent any distractions during the gameplay, but are still visible enough to deliver their intented purposes. 
 
-![Image](missingimage.png)
+![Image](IMG_0440.jpeg)
 
-In terms of the newly made game's base, I completely replaced the pizza box to a nicely decorated hard styrofoam 
+In terms of the newly made game's base, I completely replaced the pizza box that was designed before week 10, to a nicely decorated hard styrofoam that was redesigned to fit the game's "feel" and aesthetic. The following images chronologically demonstrate how the base and final game piece was developed since the prototype submission and earlier developments:
+
+This image was taken shortly after the construction of the newly desgined base.
+
+![Image](IMG_0438.jpeg)
+
+These images saw the steady construction of the design part of the game. This part was the most time consuming part of the entire project, from looking for possible alternatives for specific Micro:bit component to the exploration of easily-to-access components that are readily available at home to build the game. It was challenging and difficult, however, I achieved my objectives for the game.
+
+![Image](IMG_0439.jpeg)
+
+![Image](IMG_0440.jpeg)
+
+![Image](IMG_0441.jpeg)
+
+These images represent the different perspectives to the final game. In terms of the gameplay, I've received a lot of feedbacks from my partner, in which, she really likes how the game works and talks highly of it. She highlighted how simple the rules of the game are, its increased in difficulty from the first level to the third, and her favourite part of the game is the time limit. She appreciates how difficult it must've been to create such an entertaining game, and the novelity values that the game delivers to its customers. 
+
+![Image](IMG_0442.jpeg)
+
+![Image](IMG_0443.jpeg)
+ 
 
 ## Final code ##
 
