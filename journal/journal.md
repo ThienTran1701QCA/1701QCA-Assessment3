@@ -95,6 +95,11 @@ The following image relates to how the second design concept systematically run 
 
 ![Image](IMG_0389.jpg)
 
+After experimenting with the second design concept, I created my third concept using the knowledge I gained and the avaialble materials that I have at my disposal. However, I felt like I needed to do further experiment with certain materials from my third design concept, in order to finalise my chosen design for the assessment. During the experiment, I realised that a cardbox might provide a stable platform for my project but it wouldn't give me the flexibility I needed, in which I switched to a styrofoam material as my project's platform. The following image provides the different layers for my project at this experimental stage:
+
+
+
+
 After my prototype submission, I've received a lot of feedbacks that are extremely useful to develop my prototype into a final piece. A large portion of the feedbacks focus on the aesthetic side of my project, while others are on the technical side.
 The feedbacks all started with the conceptual prototype forum that I started on L@G, my groupmate was very helpful in suggesting setting a difficulty level for my project. During this stage, I did not think about how my project could benefit from setting different challenges, and what will my users benefit from the game. However, this was quickly all changed when I realised that I could create obstacles using the same material as my project's base, in which the following image will demonstrate this change.
 
