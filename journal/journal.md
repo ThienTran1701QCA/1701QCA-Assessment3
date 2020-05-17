@@ -6,28 +6,28 @@ Micro:bit Electro Football
 
 https://make.techwillsaveus.com/microbit/activities/microfootball
 
-This project is related to my first design concept, because it allows the person to win a game when they've accomplished a series of tasks. 
+This project is related to my first design concept, because it allows the person to win a game when they've accomplished a series of tasks. I also find the project interesting in the sense of the design aesthetic, it looks very polished and organised.
 
 ### Related project 2 ###
 Don't touch the wire
 
 https://bryanmmathers.com/dont-touch-wire/
 
-This project made me to realised that I can create different difficulty levels for a project.
+This project made me to realised that I can create different difficulty levels for a project. I'm interested in the creative aspect of this project, where it's very much unique to the designer's imagination. 
 
 ### Related project 3 ###
 Making a room alarm with your Micro:bit
 
 https://www.youtube.com/watch?time_continue=821&v=igeUhVMqVRw&feature=emb_logo
 
-In terms of the materials and mechnaics of this project, they share basic similarities to my third design concept. 
+In terms of the materials and mechnaics of this project, they share basic similarities to my third design concept. This project has a very useful alarm aspect, where my chosen design concept will signify an alarm sound whenever the player touches the obstacle. 
 
 ### Related project 4 ###
 Simple Reaction Game
 
 http://web1.muirfield-h.schools.nsw.edu.au/mahara/view/view.php?id=15903
 
-The circuitry of this project is relatively similar to my third design concept, in the way that if the aluminium foil is tapped, the Micro:bit will be triggered and an action will follow. 
+The circuitry of this project is relatively similar to my third design concept, in the way that if the aluminium foil is tapped, the Micro:bit will be triggered and an action will follow. This is a very basic Micro:bit project, where anyone who just started to program using a Micro:bit will be introduced to this project. That is why I've chosen this to be a related project, because it has only been 12 weeks since I first got introduced to a Micro:bit and I'm still getting used to the Micro:bit. 
 
 ### Rekated project 5 ###
 DIY #micro:bit Toss Game
