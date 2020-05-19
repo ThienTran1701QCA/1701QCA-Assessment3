@@ -12,7 +12,7 @@ The following image shows the technical component of the game. Its purpose is to
 
 ![Image](IMG_0470.jpeg)
 
-Video Address: 
+Video Address: https://www.youtube.com/watch?v=LKGr99tN8KE
 
 ### Journal ###
 [Process and reflection journal](/journal/journal.md)
