@@ -1,5 +1,4 @@
-# *Insert project title here*
-## Hunters ##
+# *Hunters*
 ## 1701QCA Making Interaction 2020 Final Project ##
 
 ![Image](IMG_0471.jpeg)
