@@ -153,12 +153,21 @@ These images saw the steady construction of the design part of the game. This pa
 
 ![Image](IMG_0441.jpeg)
 
-The next following images represent the different perspectives to the final game. In terms of the gameplay, I've received a lot of feedbacks from my partner, in which, she really likes how the game works and talks highly of it. She highlighted how simple the rules of the game are, its increased in difficulty from the first level to the third, and her favourite part of the game is the time limit. She appreciates how difficult it must've been to create such an entertaining game, and the novelity values that the game delivers to its customers. 
+The next two images represent the different perspectives to the final game. In terms of the gameplay, I've received a lot of feedbacks from my partner, in which, she really likes how the game works and talks highly of it. She highlighted how simple the rules of the game are, its increased in difficulty from the first level to the third, and her favourite part of the game is the time limit. She appreciates how difficult it must've been to create such an entertaining game, and the novelity values that the game delivers to its customers. 
 
 ![Image](IMG_0442.jpeg)
 
 ![Image](IMG_0443.jpeg)
- 
+
+
+The Email discussions with my tutors finally ended with the following suggestions that I found crucial to finalise my game:
+"I have insisted that the aluminium paper on its own will never help the aesthetic and the sturdiness of your project. It also seems like the game is extremely easy and I think this is to do with the pockets being so accessible, so a re-design of this pockets to make them tighter would also make your game more interesting."
+Since then, I've been able to provided the aesthetic of the whole game, which includes hiding the aluminium paper and tightening all the pockets. I believe that these final amendments will make the game more challenging and entertaining for the players, and that it will be more pleasing to look at if it was bought from a store. In which, the following two images will demonstrate these changes at great detail.
+
+![Image](IMG_0470.jpeg)
+
+![Image](IMG_0471.jpeg)
+
 
 ## Final code ##
 
